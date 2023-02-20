@@ -67,7 +67,7 @@ print \
 """
                    ...
                  ;::::;   Http_Doser Starting...
-               ;::::; :;    By Chip-Hacker
+               ;::::; :;    By wshpcz31
              ;:::::'   :;
             ;:::::;     ;.
            ,:::::'       ;           OOO\
